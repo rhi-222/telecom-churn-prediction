@@ -25,11 +25,12 @@ Telecom company **Interconnect** provides landline and internet services with fl
 - Enable **targeted retention efforts** to minimize revenue loss.
 
 ## Dataset
-The dataset consists of four CSV files:
-- **contract.csv** → Contract details (plan type, payment method, tenure).
-- **personal.csv** → Customer demographics (gender, senior status).
-- **internet.csv** → Internet service details (DSL vs. Fiber, security add-ons).
-- **phone.csv** → Phone service details (number of lines, call features).
+The dataset consists of four CSV files, stored in the `data/` folder:
+
+- **`data/contract.csv`** → Contract details (plan type, payment method, tenure).
+- **`data/personal.csv`** → Customer demographics (gender, senior status).
+- **`data/internet.csv`** → Internet service details (DSL vs. Fiber, security add-ons).
+- **`data/phone.csv`** → Phone service details (number of lines, call features).
 
 The target variable is **Churn**, defined as customers who **did not renew their contract**.
 
