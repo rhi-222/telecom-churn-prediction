@@ -117,7 +117,7 @@ Model evaluation was based on:
       pip install pandas numpy scikit-learn matplotlib seaborn
 
 ### Run the Jupyter Notebook:
-Open telecom_churn_prediction.ipynb in Jupyter Notebook or Google Colab.
+Open `[updated]TelecomChurn.ipynb` in Jupyter Notebook or Google Colab.
 Execute the notebook to preprocess data, train models, and evaluate results.
 
 ## Next Steps
