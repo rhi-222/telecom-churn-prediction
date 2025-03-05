@@ -52,7 +52,7 @@ The target variable is **Churn**, defined as customers who **did not renew their
 
 #### **Churn Distribution**
 
-![Churn Distribution](images/churn_distribution.png)
+<div align="left" data-full-width="true"><figure><img src="images/churn_distribution.png" alt="" width="275"><figcaption></figcaption></figure></div>
 
 #### **Correlation Heatmap**
 
@@ -61,8 +61,6 @@ The target variable is **Churn**, defined as customers who **did not renew their
 #### **Contract Type vs. Churn**
 
 ![Contract Type vs Churn](images/contract_type_churn.png)
-
-@github
 
 ***
 
